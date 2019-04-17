@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<!-- <emps id="Num 9" name="Diva" age="20" gender="female" salary="10000"/>
+<emps id="Num 8" name="Also" age="32" gender="male" salary="50000"></emps> -->
+<emps id='1'>
+
+<name>Kamui</name>
+<age>25</age>
+<gender>male</gender>
+<salary>5000</salary>
+
+</emps>
+
+<emps id='2'>
+
+<name>Subaru</name>
+<age>28</age>
+<gender>male</gender>
+<salary>8000</salary>
+
+</emps>
+
+<emps id='3'>
+
+<name>Luna</name>
+<age>17</age>
+<gender>female</gender>
+<salary>20000</salary>
+
+</emps>
+
+</list>
